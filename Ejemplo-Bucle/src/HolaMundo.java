@@ -1,6 +1,6 @@
 public class HolaMundo {
     public static void main(String args[]){
-        System.out.println("Hola, Bienvenidos a Java!!");
+        System.out.println("Bienvenidos a Java desde GITHUB!!");
         System.out.println("Hola a Todos!!!");
 
         int edad = 25;   // => Declaración e Inicialización
